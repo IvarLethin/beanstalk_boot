@@ -6,6 +6,7 @@ body {
 	font-size: 20px;
     font-family: 'Source Sans Pro', sans-serif;
     background-color: #f5f5f5;
+    color: #54544a;
 }
 main .container {
 	margin-top: 40px;
@@ -63,6 +64,7 @@ HEADER
 .nav-head {
 	margin-top: 35.5px;
 	font-weight: 700;
+	color: #54544a
 }
 
 #logo-header {
